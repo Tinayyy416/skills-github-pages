@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+IT Era: World of Evolving Technologies and Human Living
 ---
 
